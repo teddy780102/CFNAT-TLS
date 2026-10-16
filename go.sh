@@ -33,7 +33,7 @@ do
         -port="$port" \
         -delay="$delay" \
         -ips="$ips" \
-        -addr="0.0.0.0:1234" \
+        -addr="0.0.0.0:3234" \
         -ipnum="$ipnum" \
         -num="$num" \
         -random="$random" \
